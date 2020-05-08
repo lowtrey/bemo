@@ -1,0 +1,39 @@
+1. Create duplicate of https://cdainterview.com
+  - Only Home Page and Contact Us Page
+
+2. Make the following accessible in panel:
+  - Easy way to make changes
+  - Simple switch to turn any page into "No-index" 
+    so it's not crawled by search engines
+  - Easy to change text
+  - Easy to style text (bold, italics, strikethrough,
+    create links, center text, and turn text to H1, H2, H3)
+  - Include a space for each page to include meta title and meta description
+  - Include a space in the panel to include Facebook advertising pixel
+    and a seperate section to include Google analytics tag - these
+    should be global - i.e. including the code, will integrate the tags
+    across all existing AND future pages. (Will be tested by including
+    actual tags in the area you indicate in the panel to make sure they are functional)
+  - Create a space in the panel for the contact form to link any email address to the 
+    contact form as we will be testing the functionality. 
+
+3. Host the website on a mock server and mock domain of your choice.
+
+4. Please make sure the two pages you are duplicating are set to "No index".
+
+5. Indicate the login and password to the website panel section for this site
+   in your email back to us. 
+
+6. Please make sure the website itself is also password protected - include 
+   URL and login details in your response
+
+7. The website must be mobile responsive. 
+
+8. The website should score 80 or above for both mobile and desktop using 
+   Google PageSpeed tool.
+
+9. Please record the time it took you to complete this task and indicate the time
+  in your email back to us. 
+
+10. Lastly, send us your code in a zip file as an attachment in your email or upload
+    it on a Github account and send us the link in your email. 
