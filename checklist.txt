@@ -19,7 +19,7 @@
 
 3. Host the website on a mock server and mock domain of your choice.
 
-4. Please make sure the two pages you are duplicating are set to "No index".
+^4. Please make sure the two pages you are duplicating are set to "No index".
 
 5. Indicate the login and password to the website panel section for this site
    in your email back to us. 

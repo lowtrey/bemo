@@ -1,0 +1,130 @@
+/* TODO
+  - Add Social Icons To Footer
+ */
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 15px;
+  color: #373737;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+  margin: 2em;
+}
+
+header {
+  top: 0;
+  width: 100%;
+  display: flex;
+  padding: 0 1rem;
+  position: fixed;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu a {
+  font-size: 17px;
+  margin-left: 3rem;
+  color: #000000;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+
+footer {
+  display: flex;
+  font-size: 13px;
+  color: #ffffff;
+  padding: 2% 5% 2% 5%;
+  background-color: #000066;
+  justify-content: space-between;
+}
+
+footer a {
+  color: #ff6600;
+}
+
+.icons {
+  display: flex;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+form label {
+  margin-top: 7px;
+  font-size: 0.9em;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+form button {
+  border: none;
+  cursor: pointer;
+  color: #000066;
+  font-size: 0.75em;
+  margin: 10px 10px 0 0;
+  text-transform: uppercase;
+  padding: 7px 28px 7px 28px;
+  background-color: #999999;
+}
+
+form input,
+form textarea {
+  width: 85%;
+  border: none;
+  padding: 9px;
+  outline: none;
+  margin-top: 10px;
+  margin-bottom: 2em;
+  background-color: #cccccc;
+}
+
+.formButtons {
+  display: flex;
+  justify-content: center;
+}
+
+.formHeader {
+  align-self: flex-start;
+  letter-spacing: 2px;
+  line-height: 32px;
+}
+
+.formHeader span {
+  text-decoration: underline;
+}
+
+.formFooter {
+  text-align: center;
+}
+
+.noteHeader {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.featureImg {
+  width: 100%;
+  height: auto;
+}
+
+.logo {
+  height: 100px;
+  width: 167px;
+}
