@@ -19,5 +19,3 @@
           <?php endforeach ?>
         </nav>
       </header>
-
-      <div class="main">

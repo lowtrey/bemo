@@ -1,6 +1,6 @@
   </div>
   <footer>
-    <p><?= $page->copyright() ?>
+    <p><?= $site->copyright() ?>
       <a href="#">Disclaimer & Privacy Policy</a>
       <a href="#">Contact Us</a>
     </p>

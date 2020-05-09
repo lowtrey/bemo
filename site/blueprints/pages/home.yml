@@ -1,0 +1,51 @@
+title: Home
+preset: page
+pages: false
+files: false
+
+fields:
+  headline:
+    type: text
+    size: small
+  header_1:
+    type: text
+    size: small
+  content_1:
+    type: textarea
+    size: small
+  header_2:
+    type: text
+    size: small
+  content_2:
+    type: textarea
+    size: small
+  header_3:
+    type: text
+    size: small
+  content_3:
+    type: textarea
+    size: small
+  header_4:
+    type: text
+    size: small
+  content_4:
+    type: textarea
+    size: small
+  header_5:
+    type: text
+    size: small
+  content_5:
+    type: textarea
+    size: small
+  header_6:
+    type: text
+    size: small
+  content_6:
+    type: textarea
+    size: small
+  header_7:
+    type: text
+    size: small
+  content_7:
+    type: textarea
+    size: small

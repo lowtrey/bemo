@@ -51,7 +51,8 @@ footer {
   justify-content: space-between;
 }
 
-footer a {
+footer a,
+article a {
   color: #ff6600;
 }
 
@@ -125,6 +126,37 @@ form textarea {
 }
 
 .logo {
-  height: 100px;
   width: 167px;
+  height: 100px;
+}
+
+.mainImage {
+  margin: 0;
+  width: 100%;
+}
+
+article a {
+  text-decoration: none;
+}
+
+article h3 {
+  font-weight: bold;
+  color: #000066;
+}
+
+article h4 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #373737;
+  margin: 3em 0 2em 0;
+}
+
+article p {
+  font-size: 16px;
+  color: #373737;
+  line-height: 1.5em;
+}
+
+ol {
+  list-style-position: inside;
 }
