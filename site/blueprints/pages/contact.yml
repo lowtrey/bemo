@@ -1,0 +1,21 @@
+title: Contact Us
+preset: page
+pages: false
+files: false
+
+fields:
+  company:
+    type: text
+    size: small
+  phone:
+    type: tel
+    size: small
+  email:
+    type: email
+    size: small
+  note:
+    type: textarea
+    size: small
+  copyright:
+    type: text
+    size: small

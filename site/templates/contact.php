@@ -2,7 +2,7 @@
 <img class="featureImg" src="http://cdainterview.com/resources/contact-us.png" alt="contact us">
 <form action="">
   <div class="formHeader">
-    <h3><?= $page->heading() ?></h3>
+    <h3><?= $page->company() ?></h3>
     <p><span>Toll Free</span>: <?= $page->phone() ?></p>
     <p><span>Email</span>: <?= $page->email() ?></p>
   </div>
@@ -20,10 +20,7 @@
 <br>
 <div class="formFooter">
   <span class="noteHeader">Note</span>:
-  <span class="noteBody">
-    If you are having difficulties with our contact us form above, 
-    send us an email to info@bemoacademicconsulting.com 
-    (copy & paste the email address)
+  <span class="noteBody"><?= $page->note() ?>
   </span>
 </div>
 
