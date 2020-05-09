@@ -1,6 +1,7 @@
 <?php snippet("header") ?>
 <div class="feature">
   <img class="mainImage" src="http://cdainterview.com/resources/cda-interview-guide.jpg" alt="feature backgound">
+  <div class="centered">CDA Interview Guide</div>
 </div>
 <div class="main">
   <article>

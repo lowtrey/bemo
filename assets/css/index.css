@@ -22,6 +22,7 @@ body {
 header {
   top: 0;
   width: 100%;
+  z-index: 3000;
   display: flex;
   padding: 0 1rem;
   position: fixed;
@@ -159,4 +160,31 @@ article p {
 
 ol {
   list-style-position: inside;
+}
+
+.feature {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 60px;
+  letter-spacing: 10px;
+  font-size: 46px;
+  width: 100%;
+}
+
+.centered:after {
+  width: 60%;
+  height: 1px;
+  content: "";
+  display: block;
+  margin: 0px auto;
+  padding-bottom: 12px;
+  border-bottom: 2px solid;
 }
