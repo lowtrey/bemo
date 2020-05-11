@@ -2,6 +2,10 @@ Title: Contact Us
 
 ----
 
+Toggle: true
+
+----
+
 Company: BeMo Academic Consulting Inc.
 
 ----
@@ -15,3 +19,7 @@ Email: info@bemoacademicconsulting.com
 ----
 
 Note: If you are having difficulties with our contact us form above, send us an email to info@bemoacademicconsulting.com (copy & paste the email address)
+
+----
+
+Copyright: 

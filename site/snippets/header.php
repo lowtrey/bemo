@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta name="robots" content="noindex" />
+    <meta name="robots" content="<?php echo ($page->toggle()->toBool() === true ? 'noindex' : '') ?>" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= $site->title() ?></title>

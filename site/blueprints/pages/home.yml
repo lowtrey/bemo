@@ -4,6 +4,10 @@ pages: false
 files: false
 
 fields:
+  toggle:
+    label: Toggle
+    type: toggle
+    text: Set page to no-index?
   headline:
     type: text
     size: small
