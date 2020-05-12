@@ -8,6 +8,12 @@ fields:
     label: Toggle
     type: toggle
     text: Set page to no-index?
+  Meta_Title:
+    type: text
+    size: small
+  Meta_Description:
+    type: text
+    size: small
   company:
     type: text
     size: small

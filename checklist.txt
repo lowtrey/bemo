@@ -1,14 +1,14 @@
-1. Create duplicate of https://cdainterview.com
+^1. Create duplicate of https://cdainterview.com
   - Only Home Page and Contact Us Page
 
 2. Make the following accessible in panel:
-  - Easy way to make changes
-  - Simple switch to turn any page into "No-index" 
+  >- Easy way to make changes
+  >- Simple switch to turn any page into "No-index" 
     so it's not crawled by search engines
-  - Easy to change text
-  - Easy to style text (bold, italics, strikethrough,
+  >- Easy to change text
+  >- Easy to style text (bold, italics, strikethrough,
     create links, center text, and turn text to H1, H2, H3)
-  - Include a space for each page to include meta title and meta description
+  >- Include a space for each page to include meta title and meta description
   - Include a space in the panel to include Facebook advertising pixel
     and a seperate section to include Google analytics tag - these
     should be global - i.e. including the code, will integrate the tags

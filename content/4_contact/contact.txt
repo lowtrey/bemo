@@ -6,6 +6,14 @@ Toggle: true
 
 ----
 
+Meta-title: Contact Us
+
+----
+
+Meta-description: This is the contact page that will get me hired at BeMo!
+
+----
+
 Company: BeMo Academic Consulting Inc.
 
 ----
