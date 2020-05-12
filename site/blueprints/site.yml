@@ -1,3 +1,11 @@
 title: Site
-preset: pages
+preset: page
 unlisted: true
+
+fields:
+  Facebook_Pixel_Code:
+    type: textarea
+    size: small
+  Google_Analytics_Code:
+    type: textarea
+    size: small

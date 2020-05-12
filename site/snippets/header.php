@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  
     <meta name="robots" content="<?php echo ($page->toggle()->toBool() === true ? 'noindex' : '') ?>" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title><?= $page->meta_title() ?></title>
     <meta name="description" content="<?= $page->meta_description() ?>">
+
     <?= css("assets/css/index.css") ?>
+
+    <!-- Facebook Pixel Code -->
+    <?= $site->facebook_pixel_code() ?>
+
+    <!-- Google Analytics Code -->
+    <?= $site->google_analytics_code() ?>
+
   </head>
   
   <body>
