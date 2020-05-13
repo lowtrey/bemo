@@ -28,5 +28,10 @@
           <?php foreach ($site->children()->listed() as $subpage): ?>
           <a href="<?= $subpage->url() ?>"><?= $subpage->title() ?></a>
           <?php endforeach ?>
+          <?php if ($user = $kirby->user()): ?>
+            <li>
+              <a href="<?= url('logout') ?>">Logout</a>
+            </li>
+          <?php endif ?>
         </nav>
       </header>

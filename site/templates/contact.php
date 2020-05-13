@@ -1,3 +1,5 @@
+<?php if (!$kirby->user()) go('/login') ?>
+
 <?php snippet("header") ?>
 
 <div class="main">

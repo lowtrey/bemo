@@ -1,3 +1,5 @@
+<?php if (!$kirby->user()) go('/login') ?>
+
 <?php snippet("header") ?>
 <div class="feature">
   <img class="mainImage" src="http://cdainterview.com/resources/cda-interview-guide.jpg" alt="feature backgound">
