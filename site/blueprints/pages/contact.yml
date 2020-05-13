@@ -26,6 +26,3 @@ fields:
   note:
     type: textarea
     size: small
-  copyright:
-    type: text
-    size: small
